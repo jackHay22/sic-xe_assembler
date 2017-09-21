@@ -1,0 +1,3 @@
+#!/bin/sh
+OPTS=Assemble
+java $OPTS "$@"
